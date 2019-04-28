@@ -17,7 +17,8 @@ function johnLennonFacts(constfacts){
 }
 function iLoveTheBeatles(value){
   var somuchlove=[];
-do { e = 15-value
+do { 
+    e = 15-value;
     somuchlove.push(e);
   } while(e < value.length);
 }
