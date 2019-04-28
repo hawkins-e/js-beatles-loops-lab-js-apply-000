@@ -21,7 +21,7 @@ function iLoveTheBeatles(value){
   var e = 0;
    do {
       e= 15-value;
-      result *e= " ";
+      result +e= " ";
    while (e <
      value.length); {
   somuchlove.push(value[e]);
