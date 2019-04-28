@@ -17,11 +17,9 @@ function johnLennonFacts(constfacts){
 }
 function iLoveTheBeatles(value){
   var somuchlove=[];
-  var result= " ";
   var e = 0;
    do {
-        e= 15 - (value);
-        result *= " ";
+        e= 15 - value;
    while (e <
      value.length){
   somuchlove.push(value[e]);
