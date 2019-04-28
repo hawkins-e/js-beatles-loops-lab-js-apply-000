@@ -20,7 +20,6 @@ function iLoveTheBeatles(value){
   var e = 15-value;
   do {
     somuchlove.push(e);
-  } while(e <
-    value.length);
+  } while(e < value.length)
 }
  return somuchlove;
