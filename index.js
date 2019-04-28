@@ -20,10 +20,11 @@ function iLoveTheBeatles(value){
   var result= " ";
   var e = 0;
    do {
-      e= 15-value;
-      result +e= " ";
+        e= 15 - (value);
+        result *= " ";
    while (e <
      value.length){
   somuchlove.push(value[e]);
+ }
+ return somuchlove;
 }
-return somuchlove;
