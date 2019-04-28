@@ -23,7 +23,7 @@ function iLoveTheBeatles(value){
       e= 15-value;
       result +e= " ";
    while (e <
-     value.length); {
+     value.length){
   somuchlove.push(value[e]);
 }
 return somuchlove;
