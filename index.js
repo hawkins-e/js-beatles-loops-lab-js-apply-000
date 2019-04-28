@@ -19,11 +19,10 @@ function iLoveTheBeatles(value){
   var somuchlove=[];
   var e = 0;
    do {
-        e= 15 - value; e++;
-        (e <
-          value.length){
+        e = 15 - value; e++;
+
        somuchlove.push(value[e]);
-   while
+   while (e < value.length);
  }
  return somuchlove;
 }
