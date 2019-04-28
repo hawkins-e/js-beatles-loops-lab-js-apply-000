@@ -15,12 +15,12 @@ function johnLennonFacts(constfacts){
   }
   return forthefacts;
 }
-var e = 15-value;
+var 
 function iLoveTheBeatles(value){
   var somuchlove=[];
-
   do {
     somuchlove.push("I love the Beatles!");
-  } while(e < value.length);
+    value++;
+  } while(value < 15);
 }
  return somuchlove;
