@@ -24,7 +24,6 @@ function iLoveTheBeatles(value){
         e++;
         somuchlove.push(value[e]);
    } while;
- }
  return somuchlove;
 }
-}
+
