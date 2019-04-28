@@ -20,7 +20,7 @@ var somuchlove=[];
 do {
     var e = 15-value;
     somuchlove.push(e);
-  } while(e < 
+  } while(e <
     value.length);
 }
  return somuchlove;
